@@ -40,4 +40,4 @@ console.log(minimizedMaximum(n2, quantities2)); // Output: 5
 
 let n3 = 1,
   quantities3 = [100000];
-console.log(minimizedMaximum(n3, quantities3)); // Output: 100000
+console.log(minimizedMaximum(n3, quantities3)); // Output: 100000 nrmlmn
