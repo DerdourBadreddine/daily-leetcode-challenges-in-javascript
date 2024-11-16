@@ -16,7 +16,6 @@ function resultsArray(nums, k) {
 
   const ans = []; // مصفوفة النتائج
 
-  // تكرار على المصفوفة باش نجمعو النتائج النهائية
   //   hna nloopiw array bah njibo finnals
   for (let i = k - 1; i < n; ++i) {
     ans.push(f[i] >= k ? nums[i] : -1);
